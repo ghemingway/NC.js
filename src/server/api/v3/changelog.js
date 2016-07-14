@@ -1,5 +1,5 @@
 "use strict";
-var StepNC = require('../../../../../STEPNode/build/Release/StepNC');
+var StepNC = require('stepnode/StepNC');
 var fs = require('fs');
 
 ///*******************************************************************\

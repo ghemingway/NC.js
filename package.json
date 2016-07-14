@@ -53,6 +53,11 @@
     "webpack-sources": "^0.1.0",
     "winston": "^2.2.0"
   },
+  "optionalDependencies": {
+    "stepnode" : "^0.1.0-OSX",
+    "stepnode" : "^0.1.0-Windows",
+    "stepnode" : "^0.1.0-Linux"
+  },
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.10.4",
